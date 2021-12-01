@@ -1,0 +1,8 @@
+D:\Nordic\C#\LabBasedAssignment5\LBA5\LBA5\LBA5\bin\Debug\LBA5.exe.config
+D:\Nordic\C#\LabBasedAssignment5\LBA5\LBA5\LBA5\bin\Debug\LBA5.exe
+D:\Nordic\C#\LabBasedAssignment5\LBA5\LBA5\LBA5\bin\Debug\LBA5.pdb
+D:\Nordic\C#\LabBasedAssignment5\LBA5\LBA5\LBA5\obj\Debug\LBA5.csproj.AssemblyReference.cache
+D:\Nordic\C#\LabBasedAssignment5\LBA5\LBA5\LBA5\obj\Debug\LBA5.csproj.SuggestedBindingRedirects.cache
+D:\Nordic\C#\LabBasedAssignment5\LBA5\LBA5\LBA5\obj\Debug\LBA5.csproj.CoreCompileInputs.cache
+D:\Nordic\C#\LabBasedAssignment5\LBA5\LBA5\LBA5\obj\Debug\LBA5.exe
+D:\Nordic\C#\LabBasedAssignment5\LBA5\LBA5\LBA5\obj\Debug\LBA5.pdb
